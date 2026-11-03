@@ -98,3 +98,6 @@ CSETWebApi/NCUA-EXAMINER-TOOL
 /gallery-editor
 
 CSETWebApi/CSETWeb_Api/CSETWeb_ApiCore/appsettings.Development.json
+
+# Local Visual Studio caches can retain workstation and user metadata.
+/.vs/
